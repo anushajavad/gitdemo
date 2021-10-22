@@ -1,2 +1,4 @@
 Hello,
 this is first repo sample git file
+
+update file
